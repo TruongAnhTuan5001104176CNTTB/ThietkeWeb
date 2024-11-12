@@ -1,0 +1,54 @@
+.dau {
+    min-height: 1000px;
+}
+.daugiua {
+    height: 40vh;
+    background-image: url(hinh-nen-may-tinh-dep-thumb.jpg);
+    background-size: cover;
+}
+.cuoigiua {
+    height: 80vh;
+}
+#avatar {
+    position: absolute;
+    bottom: 250px;
+    left: 460px;
+    transform: translateX(-50%);
+    width:250px;
+    height: 250px;
+    border-radius: 50%;
+    border: 5px solid;
+}
+p {
+    line-height:0;
+}
+.khung {
+    height: 430px;
+    width: 150px;
+    text-align:justify;
+    margin-left: 20px;
+    float:left;
+    background-color:blanchedalmond;
+    margin-top:160px;
+    border-left: 3px solid #292929;
+    border-top: 3px solid #292929;
+    border-bottom: 3px solid #292929;
+    border-right: 3px solid #292929;
+}
+.khun {
+    height: 430px;
+    width: 700px;
+    text-align: justify;
+    margin-left: 0px;
+    background-color: white;
+    margin-top:160px;
+    float:left;
+    color: gray;
+    border-right: 3px solid #292929;
+    border-top: 3px solid #292929;
+    border-bottom: 3px solid #292929;
+}
+body {
+    background-image: url(Hinh-nen-Full-HD-1080-cho-may-tinh-dep.jpg);
+    background-repeat: no-repeat;
+}

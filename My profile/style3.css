@@ -1,0 +1,8 @@
+body {
+    background-image: url(Hinh-nen-Full-HD-1080-cho-may-tinh-dep.jpg);
+    color: white;
+}
+.center {
+    display: flex;
+    justify-content: center;
+}
